@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+.container{
+	margin: 20%;
+	padding: 20%;
+	background-color: #AED7E6;
+	color: purple;
+	font-size: 25px;
+	border: 3px solid black;
+}
